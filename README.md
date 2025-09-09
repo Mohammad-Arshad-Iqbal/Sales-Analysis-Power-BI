@@ -16,6 +16,7 @@ Overall, this Report enables the company to identify growth opportunities, reduc
 
  
 <img width="1838" height="895" alt="Image" src="https://github.com/user-attachments/assets/38916b01-2345-4f8d-8e02-a579bdedb665" />
+<img width="1841" height="912" alt="Image" src="https://github.com/user-attachments/assets/6e19d18b-37d1-4d3d-8693-bbad0ed5174d" />
 <img width="1837" height="913" alt="Image" src="https://github.com/user-attachments/assets/225818d0-b45a-406b-90b0-77c1375ecb56" />
 
 <img width="1840" height="897" alt="Image" src="https://github.com/user-attachments/assets/e417cb17-60c5-4e62-a84b-74a6fd7589d1" />
