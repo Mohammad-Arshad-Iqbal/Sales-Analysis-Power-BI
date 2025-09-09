@@ -28,7 +28,7 @@ Overall, this Report enables the company to identify growth opportunities, reduc
 Following inferences can be drawn from the report;
 
 ### 1. Top/Bottom 5 product by Sales/Profit/Quantity Sold?.
-
+Apple iPhone 14, MacBook Air, and Sony Bravia TV drive the highest sales and profits, while Tupperware Lunch Box and Nivea Body Lotion remain the weakest performers. Premium electronics dominate revenue, whereas low-cost consumer goods need improvement.
  
            
 ### 2. How do sales trends vary over time (daily, monthly, quarterly, annually)
