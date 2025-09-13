@@ -48,7 +48,7 @@ Apple iPhone 14, MacBook Air, and Sony Bravia TV drive the highest sales and pro
  ### 5. Total number of orders.
  - 3510
  ### 6. Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories)
- 
+ - In page number 4 of report we have created visual table which we can filter using product date customer Id . It also use cross fitering between Product/Date/Customer ID/Promotion Categories so if we select any customer ID all the other product date and promotion show according to this customer id only
  ### 7. What are the sales by different states?
 
 - **Maharashtra** leads with the highest sales (~25.45M).  
