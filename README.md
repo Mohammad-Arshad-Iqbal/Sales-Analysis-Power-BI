@@ -31,25 +31,41 @@ Apple iPhone 14, MacBook Air, and Sony Bravia TV drive the highest sales and pro
  
            
 ### 2. How do sales trends vary over time (daily, monthly, quarterly, annually)
+
+<img width="1367" height="290" alt="Image" src="https://github.com/user-attachments/assets/0c57ec66-d822-4b7d-97ee-011e2c04c3ee" />
+
 - Sales remained stable from **2020 (31M)** to **2022 (29M)**, peaked in **2023 (32M)**, and dropped sharply in **2024**.  
 - Using **drill-through**, the trend can be analyzed in detail at **daily, monthly, and quarterly levels** to identify seasonal patterns, short-term fluctuations, and performance cycles.
  
   
 ### 3. Relationship between sales & profit.
+
+<img width="470" height="437" alt="Image" src="https://github.com/user-attachments/assets/f91903b5-e924-42bc-b5aa-046174377db0" />
+
 - There is a **strong positive correlation** between sales and profit.  
 - As **sales increase**, profit also rises proportionally, indicating efficient cost management and consistent profitability.
       
  ### 4. Total discount offered in each discount category.
- - **Weekend Flash Sale**: 22.57K (highest)  
+ 
+ <img width="416" height="332" alt="Image" src="https://github.com/user-attachments/assets/d45a64bc-2b03-457d-94f4-bf268b03c30b" />
+ 
+- **Weekend Flash Sale**: 22.57K (highest)  
 - **Clearance Sale**: 17.73K  
 - **Summer Sale**: 7.42K  
 - **New Year Special**: 3.22K  
-- **Festive Diwali**: 0.3K (lowest)  
+- **Festive Diwali**: 0.3K (lowest)
+  
  ### 5. Total number of orders.
- - 3510
+- 3510
+   
  ### 6. Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories)
- - In page number 4 of report we have created visual table which we can filter using product date customer Id . It also use cross fitering between Product/Date/Customer ID/Promotion Categories so if we select any customer ID all the other product date and promotion show according to this customer id only
+ <img width="1375" height="756" alt="Image" src="https://github.com/user-attachments/assets/424c77bf-5a87-4d55-939c-b6f435f375d1" />
+ 
+- In page number 4 of report we have created visual table which we can filter using product date customer Id . It also use cross fitering between Product/Date/Customer ID/Promotion Categories so if we select any customer ID all the other product date and promotion show according to this customer id only
+   
  ### 7. What are the sales by different states?
+<img width="466" height="438" alt="Image" src="https://github.com/user-attachments/assets/7552b11d-797e-47f3-89c0-392fcda248c2" />
+
 
 - **Maharashtra** leads with the highest sales (~25.45M).  
 - Other high-performing states include **Karnataka, Tamil Nadu, Telangana, Gujarat, and Uttar Pradesh**.  
