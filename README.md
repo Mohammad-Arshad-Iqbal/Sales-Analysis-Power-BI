@@ -1,6 +1,5 @@
 # Sales Analysis Power BI Project
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
 
 ## Problem Statement
 
@@ -32,19 +31,28 @@ Apple iPhone 14, MacBook Air, and Sony Bravia TV drive the highest sales and pro
  
            
 ### 2. How do sales trends vary over time (daily, monthly, quarterly, annually)
-
-   
-  
+- Sales remained stable from **2020 (31M)** to **2022 (29M)**, peaked in **2023 (32M)**, and dropped sharply in **2024**.  
+- Using **drill-through**, the trend can be analyzed in detail at **daily, monthly, and quarterly levels** to identify seasonal patterns, short-term fluctuations, and performance cycles.
  
   
 ### 3. Relationship between sales & profit.
-  
+- There is a **strong positive correlation** between sales and profit.  
+- As **sales increase**, profit also rises proportionally, indicating efficient cost management and consistent profitability.
       
-### 4. Compare sales/profit/quantity sold between any two periods selected by the user.
+ ### 4. Total discount offered in each discount category.
+ - **Weekend Flash Sale**: 22.57K (highest)  
+- **Clearance Sale**: 17.73K  
+- **Summer Sale**: 7.42K  
+- **New Year Special**: 3.22K  
+- **Festive Diwali**: 0.3K (lowest)  
+ ### 5. Total number of orders.
+ - 3510
+ ### 6. Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories)
+ 
+ ### 7. What are the sales by different states?
 
+- **Maharashtra** leads with the highest sales (~25.45M).  
+- Other high-performing states include **Karnataka, Tamil Nadu, Telangana, Gujarat, and Uttar Pradesh**.  
+- States like **Bihar and West Bengal** contribute lower sales comparatively.  
 
- ### 5. Average discount offered in each discount category.
- ### 6. Total number of orders.
- ### 7. Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories)
- ### 8. Show sales by different cities.
 
